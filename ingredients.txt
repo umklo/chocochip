@@ -1,3 +1,6 @@
 flour
 sugar
 butter
+salt
+water
+baking soda
